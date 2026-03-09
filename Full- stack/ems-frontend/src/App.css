@@ -1,0 +1,121 @@
+/*footer*/
+.footer {
+    background-color: #353434; 
+    padding: 20px;
+    color: #fcfcfc;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 30px;
+    background-color: #050505;
+    color: #ececec;
+    font-size: 18px;
+    font-weight: 300;
+  }
+  
+  .about-section {
+    width: 70%;
+  }
+  
+  .quick-links {
+    width: 20%;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: 10px;
+  }
+  
+  .copyright {
+    text-align: center;
+    margin-top: 20px;
+    
+    
+  }
+  .footer-links li a:hover {
+    
+    font-size: 25px; 
+    color: red;
+    
+  }
+
+
+  .footer-links li a {
+    transition: color 0.3s ease, font-size 0.3s ease; 
+    
+  }
+
+
+
+.quick-links .footer-links li a:hover {
+  color: red; 
+  
+}
+.quick-links .footer-links li a {
+  color: rgb(255, 255, 255);
+
+}
+  
+  .footer-social-icon img
+  {
+    width: 40px;
+  }
+  .footer-social-icon a i img:hover {
+    transform: scale(1.2); 
+  }
+  
+  
+  .footer-social-icon a i img {
+    transition: transform 0.3s ease;
+  }
+  .footer-social-icon a
+  {
+    padding: 20px;
+  }
+
+  /*navi*/
+
+  .font-georgia {
+    font-family: 'Georgia', serif;
+  }
+  .link-hover {
+    position: relative;
+  }
+  
+  .link-hover::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 3px; 
+    width: 100%;
+    height: 3px; 
+    background-color: red; 
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    
+    
+  }
+  
+  .link-hover:hover::after {
+    opacity: 1;
+  }
+  .map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+  
+  
+  
+ 
