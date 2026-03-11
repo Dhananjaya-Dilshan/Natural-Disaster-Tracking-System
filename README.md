@@ -43,5 +43,4 @@ The system provides an admin login, disaster management features, and a responsi
 
 
 
-## 🧩 Project Architecture
 
