@@ -19,7 +19,7 @@ const Educated = () => {
 
     try {
       const response = await axios({
-        url: "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAg9hT6q36bS8NPUcOs0dFhC4Hml85lVqY",
+        url: "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=[add api key with out brackets]",
         method: "post",
         data: {
           contents: [{ parts: [{ text: `${questionType} of ${disaster}` }] }],
