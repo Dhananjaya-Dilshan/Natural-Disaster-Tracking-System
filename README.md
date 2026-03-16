@@ -2,7 +2,7 @@
 
 A full-stack web application designed to record, manage, and monitor natural disaster information.  
 The system provides an admin login, disaster management features, and a responsive user interface.
-
+![Screenshot of the hero seaction of the site](https://github.com/Dhananjaya-Dilshan/Natural-Disaster-Tracking-System/blob/d2f86f4a2c55072a0b324b89c912ed1d9b56e2b6/navagation%20bar.png)
 ---
 
 ## 🚀 Features
