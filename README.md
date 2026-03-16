@@ -7,14 +7,14 @@ The system provides an admin login, disaster management features, and a responsi
 
 ## 🚀 Features
 
-- 🔐 Admin login authentication
-- ➕ Add new disaster records
-- ✏️ Update existing disaster details
-- 🗑️ Delete disaster records
-- 📋 View all recorded disasters
-- ✅ Form validation with user-friendly error messages
-- 📱 Fully responsive UI using Bootstrap
-- 🔄 RESTful API communication between frontend and backend
+-  Admin login authentication
+-  Add new disaster records
+-  Update existing disaster details
+-  Delete disaster records
+-  View all recorded disasters
+-  Form validation with user-friendly error messages
+-  Fully responsive UI using Bootstrap
+-  RESTful API communication between frontend and backend
 
 ---
 
